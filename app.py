@@ -15,7 +15,7 @@ import os
 
 # HUGGINGFACEHUB_API_TOKEN = getpass()
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 
 
